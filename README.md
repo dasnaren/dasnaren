@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working in National Informatics Centre [Silpasathi (EoDB)](https://silpasathi.wb.gov.in)
 
+- 🌱 I’m currently learning **Python, Ethical Hacking**
+
 - 💬 Ask me about **react, node, drupal7**
 
 - 📫 How to reach me **wbnaren@gmail.com**
