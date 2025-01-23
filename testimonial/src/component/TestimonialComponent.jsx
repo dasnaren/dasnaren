@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import Counter from "./Counter";
 
 const TestimonialComponent = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -35,6 +36,7 @@ const TestimonialComponent = () => {
 
   return (
     <>
+      <Counter currentIndex={currentIndex} />
       <h1>Testimonial Project</h1>
       <div>{testimonials[currentIndex].description}</div>
       <span>{testimonials[currentIndex].author}</span>
