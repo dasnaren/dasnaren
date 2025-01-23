@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasnaren" alt="dasnaren" /></a> </p>
 
-- 🔭 I’m currently working in National Informatics Centre [Silpasathi (EoDB)](https://silpasathi.wb.gov.in)
+- 🔭 I’m currently working in National Informatics Centre and currently working on Project -  [Silpasathi (EoDB)](https://silpasathi.wb.gov.in)
 
 - 🌱 I’m currently learning **Python, Ethical Hacking**
 
