@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+/* styles.css */
+.form-container {
+  @apply min-h-screen flex items-center justify-center bg-blue-100;
+}
+
+.form-box {
+  @apply w-full max-w-md p-6 bg-white rounded-lg shadow-md;
+}
+
+.form-header {
+  @apply text-2xl font-semibold text-center text-blue-600 mb-4;
+}
+
+.form-field {
+  @apply space-y-4;
+}
+
+.form-label {
+  @apply block text-lg font-medium text-gray-700;
+}
+
+.form-input {
+  @apply mt-2 p-2 w-full border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:outline-none;
+}
+
+.radio-group {
+  @apply flex space-x-4;
+}
+
+.checkbox-group {
+  @apply flex space-x-4;
+}
+
+.checkbox-item {
+  @apply flex items-center;
+}
+
+.checkbox-input {
+  @apply h-5 w-5 text-blue-600 focus:ring-blue-500;
+}
+
+.checkbox-label {
+  @apply ml-2 text-sm text-gray-600;
+}
+
+.form-submit-btn {
+  @apply w-full py-2 bg-blue-600 text-white text-lg font-semibold rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500;
+}
+
+/* Gender section styles */
+.gender-container {
+  @apply flex space-x-4;
+}
+
+.gender-label {
+  @apply text-lg font-medium text-gray-700;
+}
+
+.gender-radio {
+  @apply focus:ring-blue-500;
+}
+
+.gender-radio-input {
+  @apply h-5 w-5 text-blue-600 focus:ring-blue-500;
+}
+
+.gender-radio-item {
+  @apply flex items-center space-x-2;
+}
+
