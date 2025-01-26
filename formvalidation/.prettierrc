@@ -1,0 +1,8 @@
+{
+  "printWidth": 200, // Increase this value to 120 (or more) to prevent wrapping in <label> tag
+  "htmlWhitespaceSensitivity": "ignore",
+  "singleQuote": false,
+  "jsxSingleQuote": false,
+  "trailingComma": "es5",
+  "bracketSpacing": true
+}
